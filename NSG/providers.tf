@@ -6,8 +6,8 @@ terraform {
     }
   }
   backend "azurerm" {
-    resource_group_name  = "Shivam-resourcegroup"
-    storage_account_name = "sa11092023"
+    resource_group_name  = "zishan-resourcegroup"
+    storage_account_name = "zishan123"
     container_name       = "tfstate"
     key                  = "NSG/prod.terraform.tfstate"
   }

@@ -1,5 +1,5 @@
 resource "azurerm_lb" "Loadbalancer" {
-  name                = "shivam-loadbalancer"
+  name                = "zishan-loadbalancer"
   location            = var.location
   resource_group_name = var.rg_name
   sku                 = "Standard"

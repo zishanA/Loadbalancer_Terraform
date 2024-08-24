@@ -1,7 +1,7 @@
 sa = {
   "sa1" = {
-    "name"                = "sa11092023"
-    "resource_group_name" = "Shivam-resourcegroup"
+    "name"                = "zishan123"
+    "resource_group_name" = "zishan-resourcegroup"
     "location"            = "east us"
   }
 }

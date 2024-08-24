@@ -1,8 +1,8 @@
 resource "azurerm_virtual_network" "virtualnetwork" {
 
-  name                = "shivam-vnet"
+  name                = "zishan-vnet"
   location            = "east us"
-  resource_group_name = "Shivam-resourcegroup"
+  resource_group_name = "zishan-resourcegroup"
   address_space       = ["10.0.0.0/16"]
 
   dynamic "subnet" {

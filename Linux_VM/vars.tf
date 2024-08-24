@@ -3,7 +3,7 @@ type = map
 }
 variable "rgname" {
 type = string
-default = "Shivam-resourcegroup"
+default = "zishan-resourcegroup"
 }
 variable "location" {
 type = string

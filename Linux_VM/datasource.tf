@@ -1,12 +1,12 @@
 data "azurerm_subnet" "subnet" {
   name                 = "my-subnet1"
-  virtual_network_name = "shivam-vnet"
-  resource_group_name  = "Shivam-Resourcegroup"
+  virtual_network_name = "zishan-vnet"
+  resource_group_name  = "zishan-Resourcegroup"
 }
 
 data "azurerm_key_vault" "keyvault" {
-  name                = "Vmuserlogin-Shivam"
-  resource_group_name = "Shivam-Resourcegroup"
+  name                = "Vmuserlogin-zishan"
+  resource_group_name = "zishan-Resourcegroup"
 }
 
 data "azurerm_key_vault_secret" "keyvaultsecret1" {

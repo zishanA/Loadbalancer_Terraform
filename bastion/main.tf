@@ -1,5 +1,5 @@
 resource "azurerm_bastion_host" "bastion_host" {
-  name                = "shivam_bastion_01"
+  name                = "zishan_bastion_01"
   location            = var.location
   resource_group_name = var.rg_name
 

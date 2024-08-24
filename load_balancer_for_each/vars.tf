@@ -5,7 +5,7 @@ variable "location" {
 
 variable "rg_name" {
   type    = string
-  default = "Shivam-resourcegroup"
+  default = "zishan-resourcegroup"
 }
 
 variable "vm" {

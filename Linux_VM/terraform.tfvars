@@ -1,4 +1,4 @@
-rgname   = "Shivam-Resourcegroup"
+rgname   = "zishan-Resourcegroup"
 location = "east us"
 
 linuxvm = {

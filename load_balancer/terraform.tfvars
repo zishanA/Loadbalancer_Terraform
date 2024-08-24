@@ -1,2 +1,2 @@
 location = "east us"
-rg_name  = "Shivam-resourcegroup"
+rg_name  = "zishan-resourcegroup"

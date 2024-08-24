@@ -1,6 +1,6 @@
 rg = {
   "rg1" = {
-    name     = "Shivam-resourcegroup"
+    name     = "zishan-resourcegroup"
     location = "east us"
   }
 }
